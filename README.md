@@ -1,6 +1,5 @@
 # Group4-cicd-capstone 
 ## Introduction
-Our group has a use case to implement a CI/CD pipeline for **M** restaurant.  This pipeline is part of **M** architecture, and is concerned with automatically deploying a serverless application using AWS Lambda that will display a promotion QR code when an event is triggered.
 
 ---
 
