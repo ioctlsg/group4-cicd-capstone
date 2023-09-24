@@ -17,7 +17,8 @@
 </p>
 
 
-<img src="https://github.com/aadyr/group4-cicd-capstone/blob/dev/Group4-CICD-Diagram.png" />
+![Untitled Diagram drawio](https://github.com/ioctlsg/group4-cicd-capstone/assets/61894953/a3a9fea7-159d-4f85-8c14-7e304b062771)
+
 
 
 This CI/CD workflow is set to run automatically when certain events happen in the GitHub repository. Specifically, it's triggered when code is pushed to the "dev" or "main" branches. These branches are where developers collaborate on code changes.
